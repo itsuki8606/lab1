@@ -1,0 +1,62 @@
+Script started on 2017年03月14日 (週二) 02時03分07秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m config[K[K[K[K[K[Kgit config -l
+user.email=itsuki8606@gmail.com
+user.name=itsuki8606
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami;pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/itsuki8606/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m cd[K[Kls[K[Kgit status
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mdeleted:    README.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.ICEauthority[m
+	[31m.Xauthority[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.cache/[m
+	[31m.cinnamon/[m
+	[31m.config/[m
+	[31m.dbus/[m
+	[31m.dmrc[m
+	[31m.gconf/[m
+	[31m.gitconfig[m
+	[31m.gksu.lock[m
+	[31m.gnome2/[m
+	[31m.gstreamer-0.10/[m
+	[31m.local/[m
+	[31m.macromedia/[m
+	[31m.mozilla/[m
+	[31m.pam_environment[m
+	[31m.profile[m
+	[31m.vboxclient-clipboard.pid[m
+	[31m.vboxclient-display.pid[m
+	[31m.vboxclient-draganddrop.pid[m
+	[31m.vboxclient-seamless.pid[m
+	[31m.viminfo[m
+	[31m.xsession-errors[m
+	[31mDownloads/[m
+	[31mQt5.7.0/[m
+	[31mbuild-example-Desktop_Qt_5_7_0_GCC_64bit-Debug/[m
+	[31mexample/[m
+	[31mlab1.script[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m cat lab1.scru[Kipt
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月14日 (週二) 02時04分52秒
