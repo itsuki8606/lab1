@@ -9,6 +9,7 @@ int main()
 		cout<<n<<" ";
 		if(n==1)
 		{
+			cout<<"\n";
 			break;
 		}
 		if(n%2==1)

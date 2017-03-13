@@ -1,0 +1,7 @@
+Script started on 2017年03月14日 (週二) 02時18分47秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m cat lab1.script[5Pgit statusclone https://github.com/itsuki8606/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhoami;pwd[Kgit config -l[3Pwhoami;pwdgit clone https://github.com/itsuki8606/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kcat lab1.script[Kg++ -o lab1_1 lab1_1.cpp
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m g++ -o lab1_1 lab1_1.cpp[9Pcat lab1.script[5Pgit statusclone https://github.com/itsuki8606/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kcat lab1.scriptg++ -o lab1_1 lab1_1.cpp[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K./lab1_1
+22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m 
+Script done on 2017年03月14日 (週二) 02時19分29秒
